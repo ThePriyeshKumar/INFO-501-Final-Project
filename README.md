@@ -4,7 +4,7 @@ This section provides a step-by-step guide on how to set up and use the machine 
 # Step 1: Cloning the Repository
 Firstly, clone the repository from GitHub to your local machine. Open your command line interface and run the following command:
 
-`git clone https://github.com/ThePriyeshKumar/INFO-501-Final-Project.git`
+`git clone https://github.com/ThePriyeshKumar/INFO-501-Final-Project.git `
 
 This command will create a copy of the project in your current directory.
 
