@@ -12,7 +12,7 @@ This command will create a copy of the project in your current directory.
 After cloning the repository, you need to install several Python libraries that the project depends on. Navigate to the cloned project directory and execute the following pip commands to install each library:
 
 NumPy: A library for numerical computations in Python.
-   pip install numpy
+   'pip install numpy'
 
 Pandas: Essential for data manipulation and analysis.
    pip install pandas
