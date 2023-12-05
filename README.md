@@ -12,19 +12,19 @@ This command will create a copy of the project in your current directory.
 After cloning the repository, you need to install several Python libraries that the project depends on. Navigate to the cloned project directory and execute the following pip commands to install each library:
 
 NumPy: A library for numerical computations in Python.
-   'pip install numpy'
+   `pip install numpy`
 
 Pandas: Essential for data manipulation and analysis.
-   pip install pandas
+   `pip install pandas`
 
 Scikit-learn (sklearn): A tool for data mining and data analysis.
-   pip install scikit-learn
+   `pip install scikit-learn`
 
 Matplotlib: A plotting library for creating static, animated, and interactive visualizations.
-   pip install matplotlib
+   `pip install matplotlib`
 
 Seaborn: A Python visualization library based on matplotlib, providing a high-level interface for drawing attractive statistical graphics.
-   pip install seaborn
+   `pip install seaborn`
    
 # Step 3: Running the Notebook
 Once all the libraries are installed, locate the `501_Project_Code.ipynb` file in the cloned repository folder. Open this file in Jupyter Notebook or any compatible IDE that supports `.ipynb` files.
